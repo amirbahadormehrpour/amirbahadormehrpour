@@ -1,4 +1,5 @@
 <a href="https://ibb.co/W23ZqzZ"><img src="https://i.ibb.co/DRbhsMh/banner.jpg" alt="banner" border="0" height="100%" width="100%"></a>
+
 # <p align="center"><samp>&gt; Welcome To Amir Bahador World! </samp></p>
 
  <p align="center"><img src=https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif /></p>
@@ -24,18 +25,26 @@ I'm Amir Bahador Mehrpour, an experienced IT Infrastructure and Network Consulta
 - **Kerio Control:** Experienced in deploying and managing Kerio Control for network security
 
 ### Programming Languages & Frameworks
+<style>
+.sefid{
+        background-color: white;
+        margin:0;
+        padding:0;
+        border-radius: 25px;
+}
+</style>
 <p align="center">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
         <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
         <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="GitHub" class="sefid" />
         <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
         <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" height="60" alt="GitHub" style="background-color:#ffffff" />
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Rest API" />
         
