@@ -26,7 +26,6 @@ I'm Amir Bahador Mehrpour, an experienced IT Infrastructure and Network Consulta
 ### Programming Languages & Frameworks
 <p align="center">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-                <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
         <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
@@ -36,12 +35,10 @@ I'm Amir Bahador Mehrpour, an experienced IT Infrastructure and Network Consulta
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
         <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" height="60" alt="GitHub" style="background-color:#ffffff" />
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Rest API" />
-        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
-        <div style="color:#F0FFFF ; padding:1px" > <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65"/>
-        </div>
+        
 
 </p>
 
