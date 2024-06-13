@@ -25,21 +25,14 @@ I'm Amir Bahador Mehrpour, an experienced IT Infrastructure and Network Consulta
 - **Kerio Control:** Experienced in deploying and managing Kerio Control for network security
 
 ### Programming Languages & Frameworks
-<style>
-.sefid{
-        background-color: white;
-        margin:0;
-        padding:0;
-        border-radius: 25px;
-}
-</style>
+
 <p align="center">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
         <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
         <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="GitHub" class="sefid" />
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="GitHub" />
         <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
