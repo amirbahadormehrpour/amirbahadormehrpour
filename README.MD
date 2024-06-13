@@ -1,86 +1,66 @@
-# 🖥️ Amir Bahador Mehrpour - IT Infrastructure and Network Consultant
+<a href="https://ibb.co/W23ZqzZ"><img src="https://i.ibb.co/DRbhsMh/banner.jpg" alt="banner" border="0" height="100%" width="100%"></a>
+# <p align="center"><samp>&gt; Welcome To Amir Bahador World! </samp></p>
 
-Welcome to my GitHub profile! I'm Amir Bahador Mehrpour, a seasoned IT professional with 14 years of experience in various IT domains. My expertise spans server administration, network management, and web application development. Below, you can find more about my skills, projects, and how to reach me.
+ <p align="center"><img src=https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif /></p>
 
-![IT GIF](https://media.giphy.com/media/3o7aCUdWbuFlHzm3sY/giphy.gif)
 
-## 🚀 About Me
+I'm Amir Bahador Mehrpour, an experienced IT Infrastructure and Network Consultant with over 14 years of expertise. I specialize in server administration, network security, and infrastructure management. Currently, I am working on developing web applications using Django.
 
-- **Name:** Amir Bahador Mehrpour
+
 - **Role:** IT Infrastructure and Network Consultant
 - **Experience:** 14 years
-- **Location:** [Your Location]
+- **Location:** Tehran - Iran
 
-![Network GIF](https://media.giphy.com/media/fwbzI2kV3QrlpktI4T/giphy.gif)
+<p align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="50%" height="50%"/>
+        </p>
 
 ## 🛠️ Technologies & Tools
 
 ### Networking & Infrastructure
-- **Server Administration:** Expert in Linux and Windows Server management.
-- **MikroTik:** Proficient in configuring and managing MikroTik devices.
-- **Firewall:** Skilled in setting up and maintaining various firewalls.
-- **Kerio Control:** Experienced in deploying and managing Kerio Control for network security.
+- **Server Administration:** Expert in Linux and Windows Server management
+- **MikroTik:** Proficient in configuring and managing MikroTik devices
+- **Firewall:** Skilled in setting up and maintaining various firewalls
+- **Kerio Control:** Experienced in deploying and managing Kerio Control for network security
 
-### Development
-- **Languages:**
-  - Python
-  - PHP
-  - JavaScript
-  - Java (basic familiarity)
-- **Frameworks:** Django for web application development.
-- **Version Control:** Proficient in Git.
-
+### Programming Languages & Frameworks
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker" />
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+                <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
+        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Rest API" />
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
 </p>
 
-![DevOps GIF](https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif)
+## 🔧 Skills
+- **Git:** Version control system
+- **Docker:** Containerization
+- **DevOps:** Automation and CI/CD
+- **Firewalls:** Network security
+- **Server Management:** Linux & Windows
+## 📝 Work Experience
 
-### DevOps & Containerization
-- **Docker:** Skilled in containerization using Docker.
-- **CI/CD:** Basic knowledge of CI/CD pipelines and tools.
+- **Achilan Door:** IT Consultant (2013 - Now)
+- **Javadi Lab:** Network Administrator (2018 - Now)
+- **Pars Oil & Energy (POEC) :**Network Administrator, Systems Engineer & It Manager (2018 - Now)
+- **Kian Poulda Sade (KPC) :** Network Administrator, Systems Engineer & It Manager (2018 - Now)
+<p align="center">
+        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGJuN2gyMGF1ZnVkazlmZXk3bGNjODUxZHVwN2x2bTRqcHMxZ3loaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DNBPdShTABUCDDuhHX/giphy.gif" width="50%" height="50%"/>
+        </p>
 
-## 📈 Projects
 
-### [Project Name 1](https://github.com/yourusername/project1)
-**Description:** A brief description of what this project does and its key features.
+## 📫 Contact Me
 
-### [Project Name 2](https://github.com/yourusername/project2)
-**Description:** A brief description of what this project does and its key features.
-
-## 🏅 Achievements
-
-- Successfully managed and supported IT infrastructure for multiple companies.
-- Developed and deployed numerous web applications using Django.
-- Expertly handled network security and optimization.
-
-## 🌐 Connect with Me
-
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **Email:** [youremail@example.com](mailto:youremail@example.com)
-- **Website:** [Your Website](https://www.yourwebsite.com)
-
-![GitHub Stats GIF](https://media.giphy.com/media/xUPGcguWZHRC2HyBVS/giphy.gif)
-
-## 📊 GitHub Stats
-
-![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-## 🏆 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
-## 💼 Featured Repositories
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=radical)](https://github.com/yourusername/project1)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=radical)](https://github.com/yourusername/project2)
-
-Thank you for visiting my profile! Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas.
-
-![Footer GIF](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif)
+- **Email:** [amirbahadormehrpour@gmail.com](mailto:amirbahadormehrpour@gmail.com)
+- **LinkedIn:** [AmirBahadorMehrpour](#)
+- **GitHub:** [Amir Bahador Mehrpour](https://github.com/AmirBahadorMehrpour)
