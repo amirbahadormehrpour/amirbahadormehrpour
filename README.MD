@@ -40,6 +40,9 @@ I'm Amir Bahador Mehrpour, an experienced IT Infrastructure and Network Consulta
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Rest API" />
         <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
+        <div style="color:#F0FFFF ; padding:1px" > <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65"/>
+        </div>
+
 </p>
 
 ## 🔧 Skills
